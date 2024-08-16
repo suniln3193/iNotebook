@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          iNotebook
+          iNotebook on Cloud
         </a>
       </header>
     </div>
